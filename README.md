@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @STawor-coder
-- 👀 I’m interested in computer programming, sports and tehcnical stuff.
+- 👀 I’m interested in computer programming, sports and technical stuff.
 - 🌱 I’m currently learning how to use OpenPose for personal reasons (writing an engineer paper).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? By mail: tomasz.staworko@gmail.com
